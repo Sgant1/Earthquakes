@@ -1,6 +1,6 @@
 # Earthquakes
 
-Pulling together several GeoJSON attributes onto a Leaflet map that would track earthquakes over the last seven days. Every time this map is viewed new data should be present. I am using live data pulled from several websites and what is represented on this map are a few types of overlays:
+Pulling together several GeoJSON attributes onto a Leaflet map that would track earthquakes over the last seven days. I am using live data pulled from several websites and what is represented on this map are a few types of overlays:
 - Street
 - Satalitte
 - Light
